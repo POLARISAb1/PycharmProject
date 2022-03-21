@@ -7,70 +7,70 @@
       "name" : "test_01",
       "children" : [ {
         "name" : "test_01[猪猪]",
-        "uid" : "1b41aed3b5b62aaf",
+        "uid" : "5d5b54eaf8692698",
         "parentUid" : "7a8bb48f61d58317449ae4ee6ccbb68c",
         "status" : "passed",
         "time" : {
-          "start" : 1647830561807,
-          "stop" : 1647830561808,
-          "duration" : 1
+          "start" : 1647833441656,
+          "stop" : 1647833441656,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ "'猪猪'" ]
       }, {
         "name" : "test_01[牛牛]",
-        "uid" : "d6836a4e21783560",
+        "uid" : "f9d05f823a1bb51f",
         "parentUid" : "7a8bb48f61d58317449ae4ee6ccbb68c",
         "status" : "passed",
         "time" : {
-          "start" : 1647830561991,
-          "stop" : 1647830561991,
+          "start" : 1647833441685,
+          "stop" : 1647833441685,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ "'牛牛'" ]
       }, {
         "name" : "test_01[兔兔]",
-        "uid" : "5a667f3aaca36e58",
+        "uid" : "5d278b379449cc6d",
         "parentUid" : "7a8bb48f61d58317449ae4ee6ccbb68c",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562122,
-          "stop" : 1647830562122,
+          "start" : 1647833441709,
+          "stop" : 1647833441709,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ "'兔兔'" ]
       }, {
         "name" : "test_02",
-        "uid" : "d431c2d87aad083d",
+        "uid" : "eaba3f4c3cea3b53",
         "parentUid" : "7a8bb48f61d58317449ae4ee6ccbb68c",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562313,
-          "stop" : 1647830562314,
-          "duration" : 1
+          "start" : 1647833441732,
+          "stop" : 1647833441732,
+          "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
@@ -79,36 +79,36 @@
       "name" : "test_02",
       "children" : [ {
         "name" : "test_03",
-        "uid" : "925546000f6af6fe",
+        "uid" : "5e7037f774fa5692",
         "parentUid" : "0fd4bff28fa172a4250e5ac820010e6a",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562369,
-          "stop" : 1647830562369,
+          "start" : 1647833441748,
+          "stop" : 1647833441748,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       }, {
         "name" : "test_04",
-        "uid" : "880810aca27c893a",
+        "uid" : "3de64d23e0e9ff51",
         "parentUid" : "0fd4bff28fa172a4250e5ac820010e6a",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562383,
-          "stop" : 1647830562383,
+          "start" : 1647833441782,
+          "stop" : 1647833441782,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
@@ -117,70 +117,70 @@
       "name" : "sub.test_03",
       "children" : [ {
         "name" : "test_05[猪猪]",
-        "uid" : "663159db5d5ef9f9",
+        "uid" : "abe79620b6fc5040",
         "parentUid" : "d636df38d6f17141ca9d40cc4184cf31",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562401,
-          "stop" : 1647830562401,
+          "start" : 1647833441791,
+          "stop" : 1647833441791,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ "'猪猪'" ]
       }, {
         "name" : "test_05[牛牛]",
-        "uid" : "4346636acbaa6064",
+        "uid" : "93ffa0bb0bce89a9",
         "parentUid" : "d636df38d6f17141ca9d40cc4184cf31",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562424,
-          "stop" : 1647830562424,
+          "start" : 1647833441812,
+          "stop" : 1647833441812,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ "'牛牛'" ]
       }, {
         "name" : "test_05[兔兔]",
-        "uid" : "3391a99d46b27a54",
+        "uid" : "3baaa74cee263a76",
         "parentUid" : "d636df38d6f17141ca9d40cc4184cf31",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562445,
-          "stop" : 1647830562445,
+          "start" : 1647833441833,
+          "stop" : 1647833441833,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ "'兔兔'" ]
       }, {
         "name" : "test_06",
-        "uid" : "da48f122d4f3175d",
+        "uid" : "1b517dc0b9813480",
         "parentUid" : "d636df38d6f17141ca9d40cc4184cf31",
         "status" : "passed",
         "time" : {
-          "start" : 1647830562468,
-          "stop" : 1647830562468,
+          "start" : 1647833441868,
+          "stop" : 1647833441868,
           "duration" : 0
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
+        "retriesCount" : 8,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
