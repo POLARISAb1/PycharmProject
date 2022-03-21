@@ -1,0 +1,88 @@
+{
+  "uid" : "502684052e74de79",
+  "name" : "test_03",
+  "fullName" : "test_pytest.test_02.TestManage2#test_03",
+  "historyId" : "6609fc91bf9b2efee74d682c7394e499",
+  "time" : {
+    "start" : 1647792985981,
+    "stop" : 1647792985981,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "gg",
+    "time" : {
+      "start" : 1647792985981,
+      "stop" : 1647792985981,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "gg::0",
+    "time" : {
+      "start" : 1647792985981,
+      "stop" : 1647792985981,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "suite",
+    "value" : "test_02"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestManage2"
+  }, {
+    "name" : "host",
+    "value" : "杨艺琳的电脑"
+  }, {
+    "name" : "thread",
+    "value" : "7400-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest.test_02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "502684052e74de79.json",
+  "parameterValues" : [ ]
+}
