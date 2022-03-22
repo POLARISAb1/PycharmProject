@@ -1,0 +1,121 @@
+{
+  "uid" : "13553271c3249183",
+  "name" : "test_01[猪猪]",
+  "fullName" : "test_pytest.test_01.TestManage#test_01",
+  "historyId" : "960e34eb46e943a38eff3c30d5240a36",
+  "time" : {
+    "start" : 1647833065798,
+    "stop" : 1647833065798,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "all_in",
+    "time" : {
+      "start" : 1647833065796,
+      "stop" : 1647833065797,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "gg",
+    "time" : {
+      "start" : 1647833065797,
+      "stop" : 1647833065797,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "gg::0",
+    "time" : {
+      "start" : 1647833065798,
+      "stop" : 1647833065798,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "all_in::0",
+    "time" : {
+      "start" : 1647833065811,
+      "stop" : 1647833065811,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "suite",
+    "value" : "test_01"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestManage"
+  }, {
+    "name" : "host",
+    "value" : "IT-L-YANGYL"
+  }, {
+    "name" : "thread",
+    "value" : "19336-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest.test_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "all_in",
+    "value" : "'猪猪'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13553271c3249183.json",
+  "parameterValues" : [ "'猪猪'" ]
+}

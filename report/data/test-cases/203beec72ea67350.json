@@ -1,0 +1,63 @@
+{
+  "uid" : "203beec72ea67350",
+  "name" : "test_eval[6*9-42]",
+  "fullName" : "test_pytest.test_expectation#test_eval",
+  "historyId" : "284c92bb3d8fc1d9d2b4384108c552c7",
+  "time" : {
+    "start" : 1647928352232,
+    "stop" : 1647928352232,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 54 == 42\n +  where 54 = eval('6*9')",
+  "statusTrace" : "test_input = '6*9', expected = 42\n\n    @pytest.mark.parametrize(\"test_input,expected\", [(\"3+5\", 8), (\"2+4\", 6), (\"6*9\", 42)])\n    def test_eval(test_input, expected):\n>       assert eval(test_input) == expected\nE       AssertionError: assert 54 == 42\nE        +  where 54 = eval('6*9')\n\ntest_pytest\\test_expectation.py:6: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "suite",
+    "value" : "test_expectation"
+  }, {
+    "name" : "host",
+    "value" : "IT-L-YANGYL"
+  }, {
+    "name" : "thread",
+    "value" : "21100-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest.test_expectation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected",
+    "value" : "42"
+  }, {
+    "name" : "test_input",
+    "value" : "'6*9'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "203beec72ea67350.json",
+  "parameterValues" : [ "42", "'6*9'" ]
+}

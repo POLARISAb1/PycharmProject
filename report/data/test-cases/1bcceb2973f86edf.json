@@ -1,0 +1,63 @@
+{
+  "uid" : "1bcceb2973f86edf",
+  "name" : "test_dkej[gb2312-appium]",
+  "fullName" : "test_pytest.test_expectation#test_dkej",
+  "historyId" : "dbb7a77116f94bdae0fab498ffaea822",
+  "time" : {
+    "start" : 1647928325251,
+    "stop" : 1647928325251,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "suite",
+    "value" : "test_expectation"
+  }, {
+    "name" : "host",
+    "value" : "IT-L-YANGYL"
+  }, {
+    "name" : "thread",
+    "value" : "23696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest.test_expectation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "'gb2312'"
+  }, {
+    "name" : "wd",
+    "value" : "'appium'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bcceb2973f86edf.json",
+  "parameterValues" : [ "'gb2312'", "'appium'" ]
+}
