@@ -16,5 +16,4 @@ def get_csv():
     return data_list
 
 
-if __name__ == '__main__':
-    get_csv()
+get_csv()

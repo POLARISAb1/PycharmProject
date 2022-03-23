@@ -20,5 +20,4 @@ def get_json():
     return list(data_values)
 
 
-if __name__ == '__main__':
-    get_json()
+get_json()
