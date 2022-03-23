@@ -5,3 +5,4 @@ pytest-ordering
 pytest-rerunfailures  
 allure-pytest
 PyYAML~=6.0
+openpyxl~=3.0.9
