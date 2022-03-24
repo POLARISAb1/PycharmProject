@@ -10,3 +10,7 @@ class TestSearch:
     @allure.title("搜索词为ios")
     def test_case2(self):
         print("case2")
+
+    @allure.title("搜索词为Honmony")
+    def test_case3(self):
+        print("case3")
