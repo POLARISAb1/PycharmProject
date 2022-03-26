@@ -4,7 +4,7 @@ Ca_add_001:
  excepted: 2
 Ca_add_002:
  num1: -0.01
- num2: .02
+ num2: 0.02
  excepted: 0.01
 Ca_add_003:
  num1: 10
@@ -12,14 +12,14 @@ Ca_add_003:
  excepted: 10.02
 Ca_add_004:
  num1: 98.99
- num2: 9
+ num2: 99
  excepted: 197.99
 Ca_add_005:
  num1: 99
  num2: 98.99
  excepted: 197.99
 Ca_add_006:
- num1: 98.99
+ num1: -98.99
  num2: -99
  excepted: -197.99
 Ca_add_007:

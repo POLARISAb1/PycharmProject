@@ -3,24 +3,29 @@ import pytest
 
 
 # 处理前后置输出结果
-# class FixtureDemo:
-#     @pytest.fixture(scope="function", params="", autouse=True)
-#     def def_fixture(self):
-#         print('开始计算')
-#         yield
-#         print('结束计算')
-#
-#     @pytest.fixture()
-#     def module_fixture(self):
-#         yield
-#         print('结束测试')
+@pytest.fixture(scope="function", autouse=True)
+def def_fixture():
+    print('开始计算')
+    yield
+    print('结束计算')
+
+
+@pytest.fixture(scope="module", autouse=True)
+def module_fixture():
+    yield
+    print('结束测试')
 
 
 # 编写测试用例
+from func.get_yaml import get_yaml
+
+
+@pytest.mark.usefixtures("def_fixture")
 class TestCal:
 
     # 测试加法运算
-    @pytest.mark.parametrize("num1,num2,expected", [[1, 1, 2], [2, 3, 4]])
+
+    @pytest.mark.parametrize("num1,num2,expected", get_yaml())
     def test_add(self, num1, num2, expected):
         assert num1 + num2 == expected
 

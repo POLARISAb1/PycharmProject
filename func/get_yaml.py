@@ -16,7 +16,15 @@ def get_yaml():
     # 获取要测试的值
     result = deal_file.values()
     list_r = list(result)
-    print(list_r)
+    # print(list_r)
+    li = []
+    for item in list_r:
+        item_result = item.values()
+        list_item = list(item_result)
+        # print(list_item)
+        li.append(list_item)
+    print(li)
+    return li
 
 
 if __name__ == '__main__':
