@@ -1,0 +1,8 @@
+Ca_add_012:
+ numa: ÎÄ
+ numb: 9.3
+ resulted: TypeError
+Ca_Add_013:
+ numa: 4
+ numb: ×Ö
+ resulted: TypeError
