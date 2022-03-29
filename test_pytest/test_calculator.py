@@ -1,10 +1,9 @@
 # coding=utf-8
 import pytest
 
-
 # 处理前后置输出结果
 from func.calculator import Calculator
-from func.get_yml import get_values, get_key
+from func.get_yml import GetYaml
 
 
 @pytest.fixture(scope="function", autouse=True)
@@ -21,10 +20,12 @@ def module_fixture():
 
 
 class TestCalculator:
-
     # 测试加法运算
 
-    @pytest.mark.parametrize("num1,num2,expected", get_values(), ids=get_key())
+    yml = GetYaml()
+    print(yml.li_n, yml.list_test_normal_key)
+
+    @pytest.mark.parametrize("num1,num2,expected", yml.li_n, ids=yml.list_test_normal_key)
     def test_add(self, num1, num2, expected):
         calc1 = Calculator()
         result = calc1.add(num1, num2)
@@ -41,4 +42,3 @@ class TestCalculator:
     #         add_result = calc.add(numa, numb)
     #         print(add_result)
     #         assert e.typename == conclusion
-

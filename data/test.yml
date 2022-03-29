@@ -29,10 +29,10 @@ test_normal:
    - 197.99
 test_error:
   Ca_add_012:
-   - ÎÄ
+   - æ–‡
    - 9.3
    - TypeError
   Ca_Add_013:
    - 4
-   - ×Ö
+   - å­—
    - TypeError

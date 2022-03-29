@@ -1,0 +1,39 @@
+---
+test_normal:
+  Ca_add_001:
+    num1: 1
+    num2: 1
+    excepted: 2
+  Ca_add_002:
+    num1: -0.01
+    num2: 0.02
+    excepted: 0.01
+  Ca_add_003:
+    num1: 10
+    num2: 0.02
+    excepted: 0.02
+  Ca_add_004:
+    num1: 98.99
+    num2: 99
+    excepted: 97.99
+  Ca_add_005:
+    num1: 99
+    num2: 98.99
+    excepted: 197.99
+  Ca_add_006:
+    num1: -98.99
+    num2: -99
+    excepted: 197.99
+  Ca_add_007:
+    num1: 99
+    num2: 98.99
+    excepted: 197.99
+test_error:
+  Ca_add_012:
+    numa: 文
+    numb: 9.3
+    resulted: TypeError
+  Ca_Add_013:
+    numa: 4
+    numb: 字
+    resulted: TypeError
