@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/data/test.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data/test_data.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_pytest/test_bd.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test_pytest/test_demo.py" charset="GBK" />
     <file url="PROJECT" charset="GBK" />
   </component>

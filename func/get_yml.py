@@ -61,7 +61,7 @@ class GetYaml:
             list_error = list(error_value)
             self.li_e.append(list_error)
         # print(self.li_e)
-        return self.list_key, self.list_test_error_key, self.list_test_error_key, self.li_n, self.li_e
+        return self.list_key, self.list_test_normal_key, self.list_test_error_key, self.li_n, self.li_e
 
 
 # yml = GetYaml()
