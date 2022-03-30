@@ -2,7 +2,7 @@ pytest~=7.1.0
 pytest-html
 pytest-xdist 
 pytest-ordering   
-pytest-rerunfailures  
+pytest-rerunfailures
 allure-pytest
 PyYAML~=6.0
 openpyxl~=3.0.9
