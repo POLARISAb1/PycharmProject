@@ -5,151 +5,110 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0233f308-0a1e-43a4-8bbc-9c0ba9658235-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/04341c7c-53ce-4914-ae67-0139ca665906-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/05e1182b-4263-47ab-a957-813ec64c0092-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/06a21b98-e120-4b59-b404-4d138e3f24af-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/08c5270b-dfe8-4c28-81d0-6068fa72c3d1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0ac047a7-c42b-4349-8938-c17c5563ce84-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0b1ebeb1-76e0-4692-9527-b1e9e4d9a9b0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0c51c9cc-2040-4165-a922-9dd5626e80d5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/105e3205-1d13-4991-9c8f-33945b217e4b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/10bb873b-d88e-4bb9-a01f-bfe0d063579b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/116ee968-f8e4-441e-aab4-09dc005aca3d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/18504287-64ee-45fd-85ca-9e506eb9db6b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/1ec26a2f-253b-4592-b334-89c20c2059a2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/1faf6bd5-bb05-4994-a17f-237d5b2077c6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/21361d17-d84d-4efc-9a6a-ec08637b4d07-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/225cf6ab-916d-4f90-8ae0-adcf04f1f152-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2300c341-4800-42ad-b6d2-ff0297e5abe2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/253a1d7c-0d48-432f-bda4-4166963c015f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/27885ecf-1ff0-4d66-863c-79cb074cfe22-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/29348ca0-6ef0-4fcf-ba20-1760b562cb7a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2b6f8429-02f1-4387-9c82-b20a9075552a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2ccc1885-4f6e-4856-b6a8-f6f729172655-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/300331be-7074-433c-8a27-18ba646340e9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/305125db-4b81-4b85-8814-ba6a2ad66abc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/30e71d1d-a008-415f-b8bb-d6b245a0c489-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3420334e-1289-4e29-b2c2-5face1a4c495-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/384b5614-eda3-446b-9b7f-c2dda97540b6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3896ddc7-0470-4999-b55a-0c6a72e575a7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3b180fb1-86cc-404e-9328-61f9ada11a31-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3d9e4160-d0fc-47cf-b7f7-24d7205785c3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3da1e921-c09c-488f-8642-9c18adcb6835-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3e6b2c1d-01cf-4965-880d-4538024ac652-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/44602952-434e-4eea-b47d-3b9caa1abd84-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/44e62c2c-37a4-495c-b113-2c0dc3dafbd3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/46d5c229-8629-4896-bdc3-4805360f95ef-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/4776a892-292a-4777-866c-dd4ae61d1e1e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/4a8ce400-9df4-4da2-b779-a86b6d5149de-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/4b70718b-dd22-42c1-9044-4112a61f62b5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/4b7254c8-f1b8-41a6-8548-9e91f45cd496-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/527c9b13-c77c-4f5b-b2f6-7528a10f2169-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5314cb5e-190c-4209-bc89-08965059ccca-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/531b788b-e54d-4a68-bd82-b2d97cf5cc57-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5518c619-669b-4056-9bfe-205461c7b314-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/55a35c26-bed8-406b-81d8-4a3d93dd52c9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/59a96fa4-6b57-4ddf-a81c-9e7a443165de-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5b5c5d4a-25bd-4b83-8bbc-8410dc8ced6c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5e0430ae-dfb0-41e6-9a66-6fa179f22f7c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5e55e73d-cf42-4408-9741-2e4e056d6dd4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5ee533af-5a53-4bcd-95fd-a0d231b0b673-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5ef68888-72e2-4c44-a8d1-d7c2679c4465-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6084eb1f-8958-49cc-bcf3-6e15b0d256a8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/615781af-9cf9-40dc-a40a-9bbfd7602cca-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/61d30420-8833-4e82-a3e5-5485da01c9c1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/63d2d94c-dd42-4e41-814d-62462313a24a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6436cc3f-65c1-4feb-bdc2-90c76cddfc23-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6c0d01a3-1690-4331-b1ea-ee46b595d99a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6fcc1cb7-fcf1-428b-b527-1b970e7b341c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/7072bb8c-9a1d-4063-a7df-71918630438c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/72abe070-ec08-4872-a55c-332b0886c7a3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/73196186-183d-4e92-9183-f20e61da48b7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/77f739d3-e427-4241-b514-92856f6ff176-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/79e6b670-8de7-4a1a-86fb-eff6db4a3e01-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/7c3dc42a-dfb8-48b5-a0c1-42cbe39e7924-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/80c2876d-1bcf-4ad4-9337-da6de06b50d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/80d38e8b-e35f-4fd8-ad1a-4d8c4dc64993-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/847342c1-a426-4387-a2d7-8eefd9614591-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/84ec9b1c-084f-49f4-8abd-46b4f107bfe3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/86f683db-8dbf-4896-9e37-b7a135ffd98f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/89a1e4d8-80e1-40ae-b8ae-d94e0f7b4ac6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8bfd9bb7-61ba-47e0-8305-f448e2683e69-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8d599261-b632-4c6d-9d9c-2d085b7e6f66-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8f1885f8-8a63-4409-8725-432fd3e6dab3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9186fd02-561f-4a0e-a33f-3a095e595289-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/940290a3-aed5-4563-8163-f7a6b9748060-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/99fc7e3d-f6e4-4b11-8cd2-1a566e25d19d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9cdbd9c3-4d89-4439-95a5-9326b8c209e1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9da6348e-ed08-4d2d-a92a-76107f410e93-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9e03da49-6844-41ae-9829-3f589b8319b6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9e5104f1-62b2-45d2-ad37-24449c39c59a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9ed9f382-e296-4020-a81d-675c9f31c6a7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9f391dbd-92cd-4d58-bfd3-5edc3ea7ece7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9fc472ad-5e60-4bd7-8b4a-7b310b8ef501-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9fd5be7e-269e-4955-a68f-dcc75a3efcda-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a0143cd8-99b6-4a7e-b8d0-4f7891a295e9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a19313a0-1d50-4c38-8f83-986216746a59-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a6213db5-cd97-4275-9a9e-495d1feb78c0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a921d5ee-ee2e-40aa-ac79-811db709f2c9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/aa61f900-b74a-48fd-931d-bb37f3e7bd9a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/aac1ed03-57e3-4a01-954c-c5e8438ad729-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/abbd36d9-39a1-4481-96f7-9b6e1e64eed7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/af104141-15ed-4132-8e2e-59085c7830ec-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b0c86d0a-e749-4bf0-8dc2-853fd8775165-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b1024237-ab4d-4f58-abb0-8e9b5a30a956-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b2767257-633a-48f2-b1da-ec598b04a3bd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b48b48cb-75c1-444d-a303-24467e04d0b4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b4c9581e-ac4b-4e20-ab8b-f57da1814af9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b5d316b8-7a7f-479c-ada4-d7aa78ee8d80-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b6bca998-db03-49ae-9be0-27ed74f5c902-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b6ea5218-08b5-4948-aa84-1f3a77aaef5b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b84c4558-8985-45b2-bf04-a77e2cc684c3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b9b53d54-4f28-46c1-a11e-92df2af56b72-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/bb46ef97-4add-40ca-8f3e-6d010417c025-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/bf7ee031-836f-440b-9bed-2bda2fef40d7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c06b0692-b495-47a3-aba7-ca446f0fb6a7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c0e3f614-07e9-4c6c-96d5-8a9f4270e588-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c488384d-4a3e-45c4-a358-ad5a86f2d0e7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c6fccff2-919f-401d-bdc3-77d5edd7304d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c71fd46b-e18f-4e2f-810e-99e3ce0d2737-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c77f4d37-f683-48e1-a1c6-701addaaea97-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c8176d88-362f-45b0-ba73-e48f55710660-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c990ef1c-ed8f-4aaa-8a42-05422691b46c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ca7114bb-263e-4f01-baeb-956856c477cd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cbc60500-d313-450b-b6a8-7d9b8a0ca3c1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cc52d609-3c81-4d6c-ba80-f103f10f266a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cee6a5ed-9a89-4c4c-a923-ee5f8ac974db-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cfce89ac-b9ea-4b2e-891a-f54999acc6ea-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d03252ec-220b-49ae-961e-09ee5623974c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d04bece4-affc-4644-bbec-4bd7d729ad29-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d05a023a-2e8f-4d9d-8ec7-a4bb9298e064-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d1f6b14e-f27c-46dd-b16d-21b5092eb4c9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e1240a3a-fbca-4c72-b9f6-92542261555a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e6278641-d2c3-413c-897a-69b3130d7e93-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e9a3c10b-6c17-4dd3-a5f7-efa0adf890db-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e9c4817f-2e2f-4c3b-a7d9-b75b42a6591a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ebd9c0a9-43e1-4aa4-a182-7009fa62b7f9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ebf4e6aa-3553-4280-b3da-379f3d6697c6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/eceb6ee5-36c1-47f3-9cbe-f0596515d671-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f11ffa2f-3a9a-4307-8975-0152afe62efe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f1926f39-73a9-4a2c-802e-16f3e80d7e0c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f1e0996c-6133-430a-9f5b-35ad9707f0f4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f6a99055-faac-4111-9343-6cf4eee44149-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fa3c3b48-fe3e-49c5-8e6a-4f8555c1f0b8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fa8d2ef4-7714-4b35-8a6a-2a21187a5196-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fb54d079-8d1f-4d5b-acec-206c0468c557-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fb716511-17e3-4512-80d8-cf3e8c4fc950-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fd0e8820-2a6f-42e1-981a-0bce8895717f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ff2953fe-93b9-42ef-bc68-18487edd1127-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/test_bd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/chuancan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/03b30929-ba9e-4b93-8417-a0071277e5cc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0475a87e-7294-4f85-bab9-1c0a3b5af21b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/054a1c30-1250-44fd-93bf-147b55d3b382-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/054a8478-0a47-46f4-aa1e-708431db950f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/05620ca1-90d2-46ea-94f1-e048094fffa2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/06147e69-4c55-4c1c-b255-018b4efd2013-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/08784af1-ca1b-4ed1-a3c4-10ef6394a5b1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0a3d35a5-864f-4c22-8807-e323d42a17f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0bfb461d-48c8-41a2-bcb5-f4b2809a0fd5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0ddc585b-cedb-4091-a8b6-645de75e2c1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/139c4108-51d3-40ee-acce-01ab54575f69-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/15264fb2-22b2-49e5-8601-ad71739c2299-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/17cfc542-a546-492e-a695-d465c9a87fc3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/1ec224b2-381c-4951-9460-91544c836dee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/1f3449e0-3a51-42f5-925e-ebe0a6e4ab5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/248a4682-a3e0-475a-9330-ed1d2296b1d0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2532a852-0a9e-48c9-8b19-6f35ae6e868f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2716cc1e-dfe5-494c-b1b6-30312cb831a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2e98a7cc-4e48-406b-a797-864498834916-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3139d96e-d5e9-4de2-ac55-a7e26c749d07-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/38faf7fd-799b-4b0c-9302-099de7705c9b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/39d4b192-d3e7-414f-b8ce-cea07653f806-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3bc8fcaf-a86c-4a58-9ef2-811fc58273e5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3df1f45e-053d-4f14-8d86-876ee0bcedca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3f000694-8896-4e2a-b4a9-c823102fb2f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/42aa96c0-32c8-4e8e-9918-3deddbc91f44-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/47550bf9-301f-4baf-89e6-6268c4ab343b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/492e32c5-818f-4922-b970-19368a760ae4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/49638414-61dc-41ce-9c0f-ea0788938ad2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/53070b88-88a1-4360-87f5-b21ed81a12b5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5a6489ed-6f97-4ec0-8f3b-38e46129a1c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5b07754c-55da-4970-b1f9-3a4d64314ae3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5d170b9d-5c62-465e-9609-70cb815c6ef7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6091b684-8b74-4f3e-9cfb-1770233cc1c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/609a4686-43eb-49a7-bd25-e3146898f665-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/641c2df1-aa00-4c5d-b59c-19979cc733ef-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/646d9d3e-033c-44c6-a505-bf01403d74fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/64ed6439-3a18-4d31-a3bf-647b8176cd15-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/65119c15-d260-44be-9002-c09ec7b651ad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/65adc4f4-61f4-4349-bf31-1cec953bc228-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/682b2081-7745-4da7-be71-a004ea457bcb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/693181f6-c143-4862-a9e9-5d723c5132a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6b04c3cb-5878-43b4-89cd-702a56bd34ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6ee2d2f5-74d9-4486-b9d0-2550d8ceedca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6fb917da-e31f-4d78-b778-fe7294b77461-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/72531315-77d8-42cb-ad79-ed958a867053-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/7a868522-e55c-49d5-bb6b-51b24be94a0e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/7b8e0dd9-164e-44bf-8a2f-8900140606a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/7c4120e4-01a4-4225-b274-3b957e8cd49a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/800124fe-9ed9-4df8-a6e3-f0c45f1e11cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/80386630-ad34-4b19-ae84-55e5a1982162-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8592d4c6-2b06-43a0-b064-1d4e8a798816-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8a4c7a8e-2f60-471f-84f5-774ea2a6548f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8bedb86f-2ea6-4b58-a781-21f32e91c716-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8f718ea6-92d7-4353-8765-591648449d34-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/95e0829f-e4fd-4f1c-89e3-6a2430d7273b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9615ce15-c19e-4dcc-8666-ca200da73bb8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/96d565e5-86f8-4619-9bbd-df3146c11992-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9973fe38-1beb-4217-bf06-464891c0d460-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a1f7bc48-88ce-4ec2-a0fc-9b64fe65f042-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a3263c61-4bd9-4bf2-a97b-2ec90f4b75e2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a545a733-95b1-419d-9730-745be6149a0d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a61577f3-b077-4838-976d-22b55439dfa4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a652526c-8c32-453e-94f9-2315ac12a0b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a829a2ac-1cbe-4d26-8564-54ba9a3c2c71-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/afb4b5d5-585f-47bf-ac07-7fcb3a1818a7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/afdf8675-48a2-4870-b264-436c83c0be06-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b512dd0b-ac40-486c-8cff-a13ebb1224dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b6f50ad1-6683-4bfa-891a-7abf4bea4e7c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/bd0377e6-7cc9-4cf7-97a5-cbdd960e651f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c25d6d2d-d40f-4c19-9c03-2c71affa49d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c3bfea12-96ea-4398-9a89-1d20846a3953-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c49ced9e-e9c9-489e-b837-6f0254dce358-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c612d7ac-8ab8-4f29-b3ce-8909bda95876-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c66f1421-50b1-441c-920f-6a6e21e963e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c9f89ae1-ed14-465d-a8d9-92b292212ac0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cb1df576-37a5-4a55-9b94-2cc0d319be85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cb3247ff-ef68-430f-af97-f2f3098c4614-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d113fba7-60db-46bc-9dca-ab6cbb9da2a0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d1413559-84a5-4252-9325-976270b166a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d310cc22-eef8-4523-ae68-fb48b0e80ee3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d4e8228e-5644-4642-b548-3025d56d8724-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d7489f08-7e6a-4ab7-993e-1547cc400a7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d91b41f0-9ebd-46aa-b37c-423d8e5ee7e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d9aa7447-e80f-4264-a067-2a2af517b2d6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ddf9aa64-4d2a-46ca-ab25-74248b7ea27e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/de0b4352-2fc1-4165-8335-1decc257e312-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e2493d2f-bb16-4e1a-ba7c-9a6135dd46da-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e32ccd13-73d3-40fb-84d0-834b48aa58e9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e369b92a-5fcb-4cb6-9f47-f29f5137cd27-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e530f944-c42b-4ddf-a1f9-ff8326eababb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e7952526-5c9d-45bf-a70a-601a017cd74a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e8a2d873-6853-4d16-b6db-3f27fbb0fcd5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ea74496d-6512-4b16-a2c2-5d8f7bf48887-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ed694714-273f-4099-8a11-281e8eb7a1c4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f0a6daae-ee46-4233-8d16-ddd201ca901c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f0db8861-aa54-4e8e-a728-d63a6f34062b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f3986348-b124-4a60-aa1e-523eb1c0f699-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f6611343-1ef5-4880-bec1-55ffc8d4a8a7-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_data.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/func/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/get_yml.py" beforeDir="false" afterPath="$PROJECT_DIR$/func/get_yml.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/test_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/test_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/test_wait.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +139,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Roaming/Python/Python310/site-packages/selenium/webdriver/support/expected_conditions.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/Python/Python310/site-packages/selenium/webdriver/common/by.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/Python/Python310/site-packages/selenium/webdriver/support/wait.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -202,7 +166,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.语言默认值" />
     <property name="settings.editor.splitter.proportion" value="0.29405737" />
   </component>
   <component name="RecentsManager">
@@ -213,7 +177,29 @@
       <recent name="E:\PycharmProject\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_bd.test_search 的 Python 测试">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="chuancan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func/chuancan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,21 +222,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python 测试 (test_calculator.py 内)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pytest/test_calculator.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_bd.test_search 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,7 +237,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_cal.TestCal 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test_wait.TestWait 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,11 +248,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_cal.TestCal&quot;" />
+      <option name="_new_target" value="&quot;test_wait.TestWait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_calculator.TestCalculator 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test_wait.TestWait.test_wait 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,17 +263,17 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_calculator.TestCalculator&quot;" />
+      <option name="_new_target" value="&quot;test_wait.TestWait.test_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.test_bd.test_search 的 Python 测试" />
-        <item itemvalue="Python 测试.test_calculator.TestCalculator 的 Python 测试" />
-        <item itemvalue="Python 测试.test_cal.TestCal 的 Python 测试" />
-        <item itemvalue="Python 测试.Python 测试 (test_calculator.py 内)" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python 测试.test_wait.TestWait 的 Python 测试" />
+        <item itemvalue="Python.chuancan" />
+        <item itemvalue="Python 测试.test_wait.TestWait.test_wait 的 Python 测试" />
+        <item itemvalue="Python 测试.test_bd.test_search 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +316,9 @@
       <workItem from="1648173489692" duration="12012000" />
       <workItem from="1648300773140" duration="184000" />
       <workItem from="1648301026882" duration="9045000" />
-      <workItem from="1648652746696" duration="1554000" />
+      <workItem from="1648652746696" duration="1690000" />
+      <workItem from="1648690919995" duration="9393000" />
+      <workItem from="1648709894916" duration="4546000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -438,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648310392641</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="变更">
+      <created>1648654431068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648654431068</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,13 +444,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1648006966634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
-    <SUITE FILE_PATH="coverage/PycharmProject$get_csv.coverage" NAME="get_csv 覆盖结果" MODIFIED="1648018944027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/PycharmProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1647756102615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PycharmProject$all.coverage" NAME="all Coverage Results" MODIFIED="1648088613471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PycharmProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1648650898662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/PycharmProject$get_yaml.coverage" NAME="get_yaml 覆盖结果" MODIFIED="1648305351212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1648006966634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1648712273686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/PycharmProject$chuancan.coverage" NAME="chuancan 覆盖结果" MODIFIED="1648711040184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$all.coverage" NAME="all Coverage Results" MODIFIED="1648088613471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1648713281997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$get_csv.coverage" NAME="get_csv 覆盖结果" MODIFIED="1648018944027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/PycharmProject$get_json.coverage" NAME="get_json Coverage Results" MODIFIED="1648027344909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1648654236451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
   </component>
 </project>
