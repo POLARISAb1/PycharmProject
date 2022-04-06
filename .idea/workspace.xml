@@ -5,15 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/19a59cb4-33ba-40de-a61c-79c6343d9d80-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3e50853a-be18-4656-b81a-dd7447493ac0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/69560ab7-8378-4f1b-aa0d-8d942c2c058a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6e126785-0566-4027-b373-5a5340f7aa0c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/949f78a2-e6cd-43e4-82ca-ff6e20cadebf-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a336175c-038f-454f-b442-666b35da969b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a606bec3-a152-4a0f-a260-4b7487454922-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d702150d-0141-4930-b6d5-9a881f668f57-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/test_css_selector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/001f698a-8bdb-4a3b-886f-6c090b8cdae6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/04aab311-a001-422f-9daf-4eaa9cb841be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0f480cb2-c20a-421c-a11b-33e124759b94-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/14a59ee5-0ac1-46a6-9c8f-8595c92f9122-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/223d23cc-9af9-4147-8b6e-1005d92ab3b7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/25d28d71-8ae3-44ea-80fd-c6b4f08e72ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3aeccf3c-7572-417c-99be-8cd060a6d8ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/54c50287-34dc-4c39-a963-a95add1fa31b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5a4f195d-8e91-49d9-827c-657ef8a11eba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/69428dbe-2100-43ff-87b4-d4f733f990e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6a3ef9e0-52fb-4efd-9a99-8ddce8f726a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/891d2d59-b338-4756-a1fc-1850f473b3f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/8a8fe241-6c8c-49af-b517-994eeadb9c1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/90486bac-b783-49aa-8943-4599bc6677cc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/93c7486d-fcad-4b17-bb17-8fee39c0759a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9ce96a12-40dd-481d-9ccf-c50ee85dfa98-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/a5a1e5c7-a939-43b0-80fa-9fa1ec53bdb2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c22296a0-95bf-4574-a7ce-f89e92dcf07a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/c8705a37-b9aa-4b49-b124-730bffa6be8e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d90a3a8c-85db-402f-b756-3d800ce9a240-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e63ebb13-15b8-4728-ab53-100aa30c4c52-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ec301323-63da-460b-80d4-31f94f609a1d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ee72587e-25c2-44e1-be2c-5dc0b7e478e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fb4f34b0-38c0-45bd-b732-0e27e2b6f2e9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/test_ActionChains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/report/report.html" afterDir="false" />
     </list>
@@ -46,11 +64,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/AppData/Roaming/Python/Python310/site-packages/selenium/webdriver/support/expected_conditions.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$USER_HOME$/AppData/Roaming/Python/Python310/site-packages/selenium/webdriver/common/by.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$USER_HOME$/AppData/Roaming/Python/Python310/site-packages/selenium/webdriver/support/wait.py" root0="SKIP_INSPECTION" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -73,7 +86,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.语言默认值" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.29405737" />
   </component>
   <component name="RecentsManager">
@@ -84,7 +97,7 @@
       <recent name="E:\PycharmProject\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_css_selector.TestGet 的 Python 测试">
+  <component name="RunManager" selected="Python.chuancan">
     <configuration name="chuancan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_css_selector.TestGet 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test_ActionChains.TestActionChains 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +153,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_css_selector.TestGet&quot;" />
+      <option name="_new_target" value="&quot;test_ActionChains.TestActionChains&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_ActionChains.TestActionChains.test_dragdrop 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ActionChains.TestActionChains.test_dragdrop&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -159,28 +187,10 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_wait.TestWait.test_wait 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_wait.TestWait.test_wait&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.test_css_selector.TestGet 的 Python 测试" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python 测试.test_wait.TestWait 的 Python 测试" />
         <item itemvalue="Python.chuancan" />
-        <item itemvalue="Python 测试.test_wait.TestWait.test_wait 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +236,14 @@
       <workItem from="1648652746696" duration="1690000" />
       <workItem from="1648690919995" duration="9393000" />
       <workItem from="1648709894916" duration="4559000" />
-      <workItem from="1648801235495" duration="4361000" />
+      <workItem from="1648801235495" duration="4622000" />
+      <workItem from="1648817001478" duration="604000" />
+      <workItem from="1649060099187" duration="138000" />
+      <workItem from="1649060291527" duration="39000" />
+      <workItem from="1649060343883" duration="3124000" />
+      <workItem from="1649064286246" duration="1870000" />
+      <workItem from="1649127709351" duration="2488000" />
+      <workItem from="1649147940952" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -333,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648721338555</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="变更">
+      <created>1648807118450</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648807118450</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,14 +383,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1647756102615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PycharmProject$get_yaml.coverage" NAME="get_yaml 覆盖结果" MODIFIED="1648305351212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
-    <SUITE FILE_PATH="coverage/PycharmProject$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1648006966634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1648805310849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
-    <SUITE FILE_PATH="coverage/PycharmProject$chuancan.coverage" NAME="chuancan 覆盖结果" MODIFIED="1648711040184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
-    <SUITE FILE_PATH="coverage/PycharmProject$all.coverage" NAME="all Coverage Results" MODIFIED="1648088613471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1647756102615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PycharmProject$test.coverage" NAME="test 覆盖结果" MODIFIED="1648713281997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
-    <SUITE FILE_PATH="coverage/PycharmProject$get_csv.coverage" NAME="get_csv 覆盖结果" MODIFIED="1648018944027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$all.coverage" NAME="all Coverage Results" MODIFIED="1648088613471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProject$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1648006966634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/PycharmProject$chuancan.coverage" NAME="chuancan 覆盖结果" MODIFIED="1648711040184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
     <SUITE FILE_PATH="coverage/PycharmProject$get_json.coverage" NAME="get_json Coverage Results" MODIFIED="1648027344909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$get_csv.coverage" NAME="get_csv 覆盖结果" MODIFIED="1648018944027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649128274395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
   </component>
 </project>
