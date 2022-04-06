@@ -1,0 +1,2 @@
+//querySelector() 方法返回文档中匹配指定 CSS 选择器的一个元素。注意： querySelector() 方法仅仅返回匹配指定选择器的第一个元素
+document.querySelector("#J_SiteNavMytaobao").className="site-nav-menu site-nav-mytaobao site-nav-multi-menu J_MultiMenu site-nav-menu-hover"
