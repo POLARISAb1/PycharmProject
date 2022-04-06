@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/data/test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/0a0f613c-6e81-4303-aa58-cb3d1c2c72f0-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/0ba0e4f5-7c6d-4368-947c-6404317bc200-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/2b99fc3f-da95-4cc2-95b6-56512320638f-result.json" afterDir="false" />
@@ -15,23 +14,37 @@
       <change afterPath="$PROJECT_DIR$/func/temp/5152b4d0-8491-4306-947d-447d5a32a13b-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/59b24373-574e-47ea-bf0e-7961e87facd9-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/69e75053-0b4f-47a3-b62a-5ada1a3b5efb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/temp/703516df-51f9-4462-bccf-442ec51a4a16-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/87fb1fca-1169-4fe0-98a1-012a7f87d469-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/884081a2-8da5-4808-9580-e6e731bbb7d9-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/8ee81e54-d5c1-4cfc-8a6c-0419bd9d6ba7-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/99fe4568-7b22-4ce4-acf0-1728555a60b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/temp/9cf0c533-534c-4404-9d32-3a31f2f59620-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/9e2d0c20-cc74-48de-8334-9ea619b4627a-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/9f935640-9132-4565-b2ec-6f61f6ab3b80-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/a3327e90-1465-45a1-8dc0-dbbb6e6e9e4a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/temp/a806b071-c163-4d1d-af68-623c12229931-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/temp/b498ee55-e91e-4a4b-b167-7a9878df9db7-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/bb77ce3c-d756-4ae4-b0a9-7235e15e5eaf-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/c01997d1-ce20-4dce-ab05-62d107e496aa-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/c070d8b8-a4fa-4b63-9fd5-61c95509d855-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/c3ed9b2b-b319-4ee1-94ea-f0a9a54bc4c6-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/c8433e21-7843-4335-a131-2235fc606b60-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/df2124a1-5408-441c-8d91-38641cdd0976-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func/temp/ec91a24a-4d76-47d4-86c4-048b80c2ae86-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/func/temp/faaf036b-3e90-4f84-bfff-83b4c7887fdc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/3044b626-1168-4807-b3c1-b9ae538bc64e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/455a2105-7709-4ba1-85f9-b2c6645915f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5b1e2339-271a-49b4-92fe-174b75425273-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/67fce678-c420-435c-9860-c53bcc9f5588-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6d2eeea8-a6ee-45d1-a83c-8426784af807-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9be6a0ee-136d-44ba-b66d-9b07837f495d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/f4dd254e-c26f-4f85-ab75-5d5b714aa870-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fc2646a0-370d-48c9-a739-f9f8e7d7647b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/test_Alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest/test_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/func/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/test_js.py" beforeDir="false" afterPath="$PROJECT_DIR$/func/test_js.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/report/report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -85,8 +98,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.常规" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.29405737" />
+    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -96,8 +110,8 @@
       <recent name="E:\PycharmProject\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_js.TestJS1 的 Python 测试">
-    <configuration name="test_form.TestForm.test_form 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python 测试.test_Alert.TestAlert 的 Python 测试">
+    <configuration name="test_Alert.TestAlert 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +122,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_form.TestForm.test_form&quot;" />
+      <option name="_new_target" value="&quot;test_Alert.TestAlert&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_frame.TestFrame 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test_file.TestFile 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +137,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_frame.TestFrame&quot;" />
+      <option name="_new_target" value="&quot;test_file.TestFile&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -174,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.test_Alert.TestAlert 的 Python 测试" />
+        <item itemvalue="Python 测试.test_file.TestFile 的 Python 测试" />
         <item itemvalue="Python 测试.test_js.TestJS1 的 Python 测试" />
         <item itemvalue="Python 测试.test_js.TestJS 的 Python 测试" />
         <item itemvalue="Python 测试.test_window.TestWindow 的 Python 测试" />
-        <item itemvalue="Python 测试.test_frame.TestFrame 的 Python 测试" />
-        <item itemvalue="Python 测试.test_form.TestForm.test_form 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +248,9 @@
       <workItem from="1649147940952" duration="13000" />
       <workItem from="1649229617054" duration="457000" />
       <workItem from="1649230099516" duration="3944000" />
-      <workItem from="1649237983986" duration="1709000" />
+      <workItem from="1649237983986" duration="1832000" />
+      <workItem from="1649251980459" duration="1721000" />
+      <workItem from="1649256293160" duration="3125000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -376,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649231159452</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="变更">
+      <created>1649239805274</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649239805274</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,6 +425,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649239617233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649259044978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
   </component>
 </project>
