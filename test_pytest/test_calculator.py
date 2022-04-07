@@ -3,6 +3,7 @@ import pytest
 
 # 处理前后置输出结果
 from func.calculator import Calculator
+from func.get_yaml import get_errvalue, get_ekeys
 from func.get_yml import GetYaml
 
 
