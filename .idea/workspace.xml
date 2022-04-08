@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_Add_member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/contact_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/member_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/env.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/func/temp/0a0f613c-6e81-4303-aa58-cb3d1c2c72f0-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/func/temp/0ba0e4f5-7c6d-4368-947c-6404317bc200-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/func/temp/2b99fc3f-da95-4cc2-95b6-56512320638f-result.json" beforeDir="false" />
@@ -38,7 +39,6 @@
       <change beforePath="$PROJECT_DIR$/func/temp/df2124a1-5408-441c-8d91-38641cdd0976-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/func/temp/ec91a24a-4d76-47d4-86c4-048b80c2ae86-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/func/temp/faaf036b-3e90-4f84-bfff-83b4c7887fdc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/report/assets/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/temp/092586f7-8101-4abe-8d36-a56abc2b5b54-result.json" beforeDir="false" />
@@ -78,7 +78,7 @@
       <change beforePath="$PROJECT_DIR$/test_pytest/temp/e5a7a536-a676-4118-a2a3-b8851cc09411-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/temp/fedcc6d5-6bf9-469d-9be1-0c7d0af1919f-container.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_pytest/temp/ff9c68bd-cc71-4b15-9cd5-5e5e80aac28c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/test_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_Add_member.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_Add_member.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
     <property name="settings.editor.splitter.proportion" value="0.29405737" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
@@ -298,7 +298,11 @@
       <workItem from="1649318213452" duration="5806000" />
       <workItem from="1649381313837" duration="593000" />
       <workItem from="1649387279110" duration="5706000" />
-      <workItem from="1649400813199" duration="606000" />
+      <workItem from="1649400813199" duration="643000" />
+      <workItem from="1649401481873" duration="410000" />
+      <workItem from="1649401906895" duration="179000" />
+      <workItem from="1649402942542" duration="737000" />
+      <workItem from="1649403714691" duration="3638000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -461,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649326967968</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="变更">
+      <created>1649401451892</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1649401451892</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +498,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649396747067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649405564372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
     <SUITE FILE_PATH="coverage/PycharmProject$chrome_remote_options.coverage" NAME="chrome_remote_options 覆盖结果" MODIFIED="1649319083394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
   </component>
 </project>
