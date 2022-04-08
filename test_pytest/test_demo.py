@@ -3,7 +3,7 @@ import yaml
 
 
 class TestDemo:
-    @pytest.mark.parametrize('env', yaml.safe_load(open('../env.yml')))
+    @pytest.mark.parametrize('env', yaml.safe_load(open('../data/env.yml')))
     def test_demo(self, env):
         if 'test' in env:
             print("test")

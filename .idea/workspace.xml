@@ -5,161 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/data/cookie.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/Html_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/chrome_remote_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/0a0f613c-6e81-4303-aa58-cb3d1c2c72f0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/0ba0e4f5-7c6d-4368-947c-6404317bc200-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/2b99fc3f-da95-4cc2-95b6-56512320638f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/2be79ac4-faff-4ec3-a3df-c50a7756f4e3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/2d56c029-c1b2-445a-9dfe-8c31ecbf01a8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/32a54a64-95a5-4299-b314-dfe8f429b361-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/5152b4d0-8491-4306-947d-447d5a32a13b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/59b24373-574e-47ea-bf0e-7961e87facd9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/69e75053-0b4f-47a3-b62a-5ada1a3b5efb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/703516df-51f9-4462-bccf-442ec51a4a16-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/87fb1fca-1169-4fe0-98a1-012a7f87d469-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/884081a2-8da5-4808-9580-e6e731bbb7d9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/8ee81e54-d5c1-4cfc-8a6c-0419bd9d6ba7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/99fe4568-7b22-4ce4-acf0-1728555a60b0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/9cf0c533-534c-4404-9d32-3a31f2f59620-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/9e2d0c20-cc74-48de-8334-9ea619b4627a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/9f935640-9132-4565-b2ec-6f61f6ab3b80-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/a3327e90-1465-45a1-8dc0-dbbb6e6e9e4a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/a806b071-c163-4d1d-af68-623c12229931-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/b498ee55-e91e-4a4b-b167-7a9878df9db7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/bb77ce3c-d756-4ae4-b0a9-7235e15e5eaf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/c01997d1-ce20-4dce-ab05-62d107e496aa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/c070d8b8-a4fa-4b63-9fd5-61c95509d855-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/c3ed9b2b-b319-4ee1-94ea-f0a9a54bc4c6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/c8433e21-7843-4335-a131-2235fc606b60-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/df2124a1-5408-441c-8d91-38641cdd0976-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/ec91a24a-4d76-47d4-86c4-048b80c2ae86-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func/temp/faaf036b-3e90-4f84-bfff-83b4c7887fdc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/092586f7-8101-4abe-8d36-a56abc2b5b54-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/0bcdd3be-3c50-44fa-a414-1d418b4d7045-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/1751df37-56ef-4c29-b25e-4dfcbe063e88-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/1e4fb144-4932-42c0-9451-b950cec8db21-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/206a2813-77d1-457c-92d6-cf2bd9b4e70b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/25c70ba2-1f3e-42c2-a841-3b76eddef136-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/2a0e25fe-c5f4-46a8-8736-300adb828a9b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/35425bab-cdd8-40c3-9d41-3a429c2193fa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/48bdb9fa-9ded-42f8-97df-4cd38af0fd7b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/4edbe559-5eb4-4a2b-99cd-cc47547167d1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/53c87106-d000-442a-8311-3ca21120e6b8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/5603a1a9-582e-44b2-b453-e2862afe6e92-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/566719c1-2a36-4c1d-ac8e-718696946444-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/58478f6a-c85d-4698-b9f7-8bb637f6491e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/640d426d-130a-43d8-9982-815dae8eb1f1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/66e38533-a925-44c1-82c6-61e9e8a0e0c5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/685e14b2-18f2-4d03-adcd-f95d46093777-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6c56f80a-cd43-4c11-917b-78843014da17-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/6fbe4d01-f7a3-4abf-bc96-9395c49d69f5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/73b1ee9f-e471-48c6-aa90-bf72aefa8195-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/783cb5a2-96fe-4d47-819b-46ad17507bc4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/7dfafd09-61ad-4e33-8aee-55b9499efd6a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/804a67a0-94cb-4073-97b1-4c2ebf071d3c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/99f020bd-25a7-458f-9ec4-18c1de9bcf33-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9b312fb6-6b55-4d6e-a986-d6d8aa9ee44c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9d845244-fb4e-410c-9cb8-7eb3fc09106a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/9f1b7118-d6b3-4e35-b315-ee3a1113aa94-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b1090d0f-1274-4e7f-9a74-e353b7db009f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b2427a26-1ac7-4d9f-b0bc-3ae5b994f550-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/b6c89973-6567-4eea-aa4f-99881fe94a6f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/cb2c05ed-d536-43a2-a22c-d63bc7362951-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d4b1865e-1ac0-4f3c-b76e-16452c48f04e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d693ea90-3603-459f-bd84-6928ecde690d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/d93e7dc4-878d-459f-b115-c7d5a99b33e6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/e5a7a536-a676-4118-a2a3-b8851cc09411-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/fedcc6d5-6bf9-469d-9be1-0c7d0af1919f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/temp/ff9c68bd-cc71-4b15-9cd5-5e5e80aac28c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/test_getcookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_pytest/test_pageobject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_Add_member.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/12490edddefd12d2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/attachments/889a755a26557ac1.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/1205d10c6c3cecbd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/238ec91ef3810b01.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/256eeda168126d7c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/2db5917f9b31b55.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3296fcac445e5ac2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/33175ecb4d53b8aa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3857c42309f3f94d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/40138d75e9eebf8b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/4711b4136a776f66.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/51ff08ca169b676f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/556515641b313ced.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/607117a6273116f9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/6481b58fd12aac06.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/6c0fe8ad65d3563.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/80d33115637e89e6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/83ba4e2b040d131.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/8562cf0510922076.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/85f9abe38e017423.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/87a0effcfbf39e98.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/9211a744743ac11c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/96efc86a78f8d718.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a3422615fac11ead.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a462d12af141747d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b170379f7dcf89fd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b1d75a08a11869d6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b61f41a321059038.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c2eb664783a39aba.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ce9f49d7eee8a126.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/cfcf56c2240d9a49.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d28d0b373c130faf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/de38155eaa41027f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/df7b9b407968169f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e30092d19a407fd7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ebc7985e6e51befd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ebe082306d9c9e64.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f48f4d60065ce5e9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/custom-logo/custom-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/custom-logo/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/custom-logo/偷懒.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/report/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/report/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/test_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/env.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/0a0f613c-6e81-4303-aa58-cb3d1c2c72f0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/0ba0e4f5-7c6d-4368-947c-6404317bc200-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/2b99fc3f-da95-4cc2-95b6-56512320638f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/2be79ac4-faff-4ec3-a3df-c50a7756f4e3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/2d56c029-c1b2-445a-9dfe-8c31ecbf01a8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/32a54a64-95a5-4299-b314-dfe8f429b361-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/5152b4d0-8491-4306-947d-447d5a32a13b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/59b24373-574e-47ea-bf0e-7961e87facd9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/69e75053-0b4f-47a3-b62a-5ada1a3b5efb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/703516df-51f9-4462-bccf-442ec51a4a16-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/87fb1fca-1169-4fe0-98a1-012a7f87d469-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/884081a2-8da5-4808-9580-e6e731bbb7d9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/8ee81e54-d5c1-4cfc-8a6c-0419bd9d6ba7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/99fe4568-7b22-4ce4-acf0-1728555a60b0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/9cf0c533-534c-4404-9d32-3a31f2f59620-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/9e2d0c20-cc74-48de-8334-9ea619b4627a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/9f935640-9132-4565-b2ec-6f61f6ab3b80-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/a3327e90-1465-45a1-8dc0-dbbb6e6e9e4a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/a806b071-c163-4d1d-af68-623c12229931-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/b0b98b56-3fc5-431c-9b7a-fbe098d939da-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/b498ee55-e91e-4a4b-b167-7a9878df9db7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/bb77ce3c-d756-4ae4-b0a9-7235e15e5eaf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/c01997d1-ce20-4dce-ab05-62d107e496aa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/c070d8b8-a4fa-4b63-9fd5-61c95509d855-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/c3ed9b2b-b319-4ee1-94ea-f0a9a54bc4c6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/c8433e21-7843-4335-a131-2235fc606b60-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/df2124a1-5408-441c-8d91-38641cdd0976-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/ec91a24a-4d76-47d4-86c4-048b80c2ae86-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/temp/faaf036b-3e90-4f84-bfff-83b4c7887fdc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/report/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/092586f7-8101-4abe-8d36-a56abc2b5b54-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/0bcdd3be-3c50-44fa-a414-1d418b4d7045-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/1751df37-56ef-4c29-b25e-4dfcbe063e88-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/1e4fb144-4932-42c0-9451-b950cec8db21-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/206a2813-77d1-457c-92d6-cf2bd9b4e70b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/25c70ba2-1f3e-42c2-a841-3b76eddef136-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/2a0e25fe-c5f4-46a8-8736-300adb828a9b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/35425bab-cdd8-40c3-9d41-3a429c2193fa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/48bdb9fa-9ded-42f8-97df-4cd38af0fd7b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/4edbe559-5eb4-4a2b-99cd-cc47547167d1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/53c87106-d000-442a-8311-3ca21120e6b8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/5603a1a9-582e-44b2-b453-e2862afe6e92-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/566719c1-2a36-4c1d-ac8e-718696946444-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/58478f6a-c85d-4698-b9f7-8bb637f6491e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/640d426d-130a-43d8-9982-815dae8eb1f1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/66e38533-a925-44c1-82c6-61e9e8a0e0c5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/685e14b2-18f2-4d03-adcd-f95d46093777-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/6c56f80a-cd43-4c11-917b-78843014da17-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/6fbe4d01-f7a3-4abf-bc96-9395c49d69f5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/73b1ee9f-e471-48c6-aa90-bf72aefa8195-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/783cb5a2-96fe-4d47-819b-46ad17507bc4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/7dfafd09-61ad-4e33-8aee-55b9499efd6a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/804a67a0-94cb-4073-97b1-4c2ebf071d3c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/99f020bd-25a7-458f-9ec4-18c1de9bcf33-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/9b312fb6-6b55-4d6e-a986-d6d8aa9ee44c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/9d845244-fb4e-410c-9cb8-7eb3fc09106a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/9f1b7118-d6b3-4e35-b315-ee3a1113aa94-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/b1090d0f-1274-4e7f-9a74-e353b7db009f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/b2427a26-1ac7-4d9f-b0bc-3ae5b994f550-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/b6c89973-6567-4eea-aa4f-99881fe94a6f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/cb2c05ed-d536-43a2-a22c-d63bc7362951-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/d4b1865e-1ac0-4f3c-b76e-16452c48f04e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/d693ea90-3603-459f-bd84-6928ecde690d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/d93e7dc4-878d-459f-b115-c7d5a99b33e6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/e5a7a536-a676-4118-a2a3-b8851cc09411-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/fedcc6d5-6bf9-469d-9be1-0c7d0af1919f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/temp/ff9c68bd-cc71-4b15-9cd5-5e5e80aac28c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_pytest/test_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_pytest/test_demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,19 +132,19 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.29405737" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProject\data" />
       <recent name="F:\PycharmProject\pic" />
       <recent name="E:\PycharmProject" />
       <recent name="E:\PycharmProject\test_pytest" />
-      <recent name="E:\PycharmProject\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_getcookie.TestGetCookie.test_add_cookie 的 Python 测试">
+  <component name="RunManager" selected="Python 测试.test_Add_member.test_add_member 的 Python 测试">
     <configuration name="chrome_remote_options" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,6 +165,21 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_Add_member.test_add_member 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Add_member.test_add_member&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="test_getcookie.TestGetCookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -278,21 +212,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_js.TestJS1 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_js.TestJS1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_window.TestWindow 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.test_Add_member.test_add_member 的 Python 测试" />
         <item itemvalue="Python 测试.test_getcookie.TestGetCookie.test_add_cookie 的 Python 测试" />
         <item itemvalue="Python 测试.test_getcookie.TestGetCookie 的 Python 测试" />
         <item itemvalue="Python.chrome_remote_options" />
         <item itemvalue="Python 测试.test_window.TestWindow 的 Python 测试" />
-        <item itemvalue="Python 测试.test_js.TestJS1 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +295,10 @@
       <workItem from="1649299904746" duration="930000" />
       <workItem from="1649302821653" duration="1407000" />
       <workItem from="1649314235492" duration="3785000" />
-      <workItem from="1649318213452" duration="5582000" />
+      <workItem from="1649318213452" duration="5806000" />
+      <workItem from="1649381313837" duration="593000" />
+      <workItem from="1649387279110" duration="5706000" />
+      <workItem from="1649400813199" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -532,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649261990911</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="变更">
+      <created>1649326967968</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649326967968</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +487,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649326641048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_pytest" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649396747067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
     <SUITE FILE_PATH="coverage/PycharmProject$chrome_remote_options.coverage" NAME="chrome_remote_options 覆盖结果" MODIFIED="1649319083394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
   </component>
 </project>
