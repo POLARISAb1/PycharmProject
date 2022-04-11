@@ -25,10 +25,11 @@ class TestGetCookie(Base):
         self.driver.get("https://work.weixin.qq.com/wework_admin/frame#contacts")
         # 定义cookies，cookie信息从已经写入的cookie文件中获取
         cookies = yaml.safe_load(open('../data/cookie.yml', mode='r'))
-        sleep(2)
+        sleep(5)
         # 植入cookies——cookie是单个的字典信息
         for c in cookies:
             self.driver.add_cookie(c)
-        sleep(3)
+        sleep(5)
         # 再次访问企业微信页面，发现无需扫码自动登录，而且可以多次使用
-        self.driver.get("https://work.weixin.qq.com/wework_admin/frame#contacts")
+        # self.driver.get("https://work.weixin.qq.com/wework_admin/frame#contacts")
+        sleep(5)
