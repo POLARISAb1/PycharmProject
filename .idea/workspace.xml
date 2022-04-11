@@ -5,80 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/contact_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/member_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/data/cookie.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_operate_yml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_po_memberr.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all.py" beforeDir="false" afterPath="$PROJECT_DIR$/all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/0a0f613c-6e81-4303-aa58-cb3d1c2c72f0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/0ba0e4f5-7c6d-4368-947c-6404317bc200-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/2b99fc3f-da95-4cc2-95b6-56512320638f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/2be79ac4-faff-4ec3-a3df-c50a7756f4e3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/2d56c029-c1b2-445a-9dfe-8c31ecbf01a8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/32a54a64-95a5-4299-b314-dfe8f429b361-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/5152b4d0-8491-4306-947d-447d5a32a13b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/59b24373-574e-47ea-bf0e-7961e87facd9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/69e75053-0b4f-47a3-b62a-5ada1a3b5efb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/703516df-51f9-4462-bccf-442ec51a4a16-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/87fb1fca-1169-4fe0-98a1-012a7f87d469-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/884081a2-8da5-4808-9580-e6e731bbb7d9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/8ee81e54-d5c1-4cfc-8a6c-0419bd9d6ba7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/99fe4568-7b22-4ce4-acf0-1728555a60b0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/9cf0c533-534c-4404-9d32-3a31f2f59620-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/9e2d0c20-cc74-48de-8334-9ea619b4627a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/9f935640-9132-4565-b2ec-6f61f6ab3b80-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/a3327e90-1465-45a1-8dc0-dbbb6e6e9e4a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/a806b071-c163-4d1d-af68-623c12229931-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/b0b98b56-3fc5-431c-9b7a-fbe098d939da-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/b498ee55-e91e-4a4b-b167-7a9878df9db7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/bb77ce3c-d756-4ae4-b0a9-7235e15e5eaf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/c01997d1-ce20-4dce-ab05-62d107e496aa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/c070d8b8-a4fa-4b63-9fd5-61c95509d855-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/c3ed9b2b-b319-4ee1-94ea-f0a9a54bc4c6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/c8433e21-7843-4335-a131-2235fc606b60-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/df2124a1-5408-441c-8d91-38641cdd0976-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/ec91a24a-4d76-47d4-86c4-048b80c2ae86-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/temp/faaf036b-3e90-4f84-bfff-83b4c7887fdc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/report/assets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/report/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/092586f7-8101-4abe-8d36-a56abc2b5b54-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/0bcdd3be-3c50-44fa-a414-1d418b4d7045-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/1751df37-56ef-4c29-b25e-4dfcbe063e88-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/1e4fb144-4932-42c0-9451-b950cec8db21-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/206a2813-77d1-457c-92d6-cf2bd9b4e70b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/25c70ba2-1f3e-42c2-a841-3b76eddef136-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/2a0e25fe-c5f4-46a8-8736-300adb828a9b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/35425bab-cdd8-40c3-9d41-3a429c2193fa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/48bdb9fa-9ded-42f8-97df-4cd38af0fd7b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/4edbe559-5eb4-4a2b-99cd-cc47547167d1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/53c87106-d000-442a-8311-3ca21120e6b8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/5603a1a9-582e-44b2-b453-e2862afe6e92-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/566719c1-2a36-4c1d-ac8e-718696946444-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/58478f6a-c85d-4698-b9f7-8bb637f6491e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/640d426d-130a-43d8-9982-815dae8eb1f1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/66e38533-a925-44c1-82c6-61e9e8a0e0c5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/685e14b2-18f2-4d03-adcd-f95d46093777-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/6c56f80a-cd43-4c11-917b-78843014da17-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/6fbe4d01-f7a3-4abf-bc96-9395c49d69f5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/73b1ee9f-e471-48c6-aa90-bf72aefa8195-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/783cb5a2-96fe-4d47-819b-46ad17507bc4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/7dfafd09-61ad-4e33-8aee-55b9499efd6a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/804a67a0-94cb-4073-97b1-4c2ebf071d3c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/99f020bd-25a7-458f-9ec4-18c1de9bcf33-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/9b312fb6-6b55-4d6e-a986-d6d8aa9ee44c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/9d845244-fb4e-410c-9cb8-7eb3fc09106a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/9f1b7118-d6b3-4e35-b315-ee3a1113aa94-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/b1090d0f-1274-4e7f-9a74-e353b7db009f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/b2427a26-1ac7-4d9f-b0bc-3ae5b994f550-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/b6c89973-6567-4eea-aa4f-99881fe94a6f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/cb2c05ed-d536-43a2-a22c-d63bc7362951-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/d4b1865e-1ac0-4f3c-b76e-16452c48f04e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/d693ea90-3603-459f-bd84-6928ecde690d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/d93e7dc4-878d-459f-b115-c7d5a99b33e6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/e5a7a536-a676-4118-a2a3-b8851cc09411-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/fedcc6d5-6bf9-469d-9be1-0c7d0af1919f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_pytest/temp/ff9c68bd-cc71-4b15-9cd5-5e5e80aac28c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_Add_member.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_Add_member.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/page_object/contact_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/contact_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/page_object/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/page_object/member_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/member_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,27 +58,27 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="settings.editor.splitter.proportion" value="0.29405737" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProject\web_test_actual_combat\test_cases" />
       <recent name="E:\PycharmProject\data" />
       <recent name="F:\PycharmProject\pic" />
       <recent name="E:\PycharmProject" />
       <recent name="E:\PycharmProject\test_pytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_Add_member.test_add_member 的 Python 测试">
-    <configuration name="chrome_remote_options" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python 测试.test_po_memberr.test_add_member 的 Python 测试">
+    <configuration name="test_operate_yml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/func" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/fun" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func/chrome_remote_options.py" />
+      <option name="SCRIPT_NAME" value="E:\PycharmProject\web_test_actual_combat\test_cases\test_operate_yml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_Add_member.test_add_member 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test_operate_yml.test_operate_cookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,62 +111,62 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Add_member.test_add_member&quot;" />
+      <option name="_new_target" value="&quot;test_operate_yml.test_operate_cookie&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_getcookie.TestGetCookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test_po_memberr.test_add_member 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_getcookie.TestGetCookie&quot;" />
+      <option name="_new_target" value="&quot;test_po_memberr.test_add_member&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_getcookie.TestGetCookie.test_add_cookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="web_test_actual_combat.test_cases.test_operate_yml 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/fun" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_getcookie.TestGetCookie.test_add_cookie&quot;" />
+      <option name="_new_target" value="&quot;web_test_actual_combat.test_cases.test_operate_yml&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_window.TestWindow 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="web_test_actual_combat.test_cases.test_operate_yml.test_operate_cookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/fun" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_window.TestWindow&quot;" />
+      <option name="_new_target" value="&quot;web_test_actual_combat.test_cases.test_operate_yml.test_operate_cookie&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.test_Add_member.test_add_member 的 Python 测试" />
-        <item itemvalue="Python 测试.test_getcookie.TestGetCookie.test_add_cookie 的 Python 测试" />
-        <item itemvalue="Python 测试.test_getcookie.TestGetCookie 的 Python 测试" />
-        <item itemvalue="Python.chrome_remote_options" />
-        <item itemvalue="Python 测试.test_window.TestWindow 的 Python 测试" />
+        <item itemvalue="Python 测试.test_po_memberr.test_add_member 的 Python 测试" />
+        <item itemvalue="Python 测试.test_operate_yml.test_operate_cookie 的 Python 测试" />
+        <item itemvalue="Python 测试.web_test_actual_combat.test_cases.test_operate_yml.test_operate_cookie 的 Python 测试" />
+        <item itemvalue="Python.test_operate_yml" />
+        <item itemvalue="Python 测试.web_test_actual_combat.test_cases.test_operate_yml 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +235,9 @@
       <workItem from="1649401481873" duration="410000" />
       <workItem from="1649401906895" duration="179000" />
       <workItem from="1649402942542" duration="737000" />
-      <workItem from="1649403714691" duration="3638000" />
+      <workItem from="1649403714691" duration="3847000" />
+      <workItem from="1649581403093" duration="8469000" />
+      <workItem from="1649639407135" duration="9174000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -472,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649401451892</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="变更">
+      <created>1649412305805</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1649412305805</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +440,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="变更" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649405564372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
+    <SUITE FILE_PATH="coverage/PycharmProject$operate_yml.coverage" NAME="operate_yml 覆盖结果" MODIFIED="1649642945586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/fun" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649652151073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
     <SUITE FILE_PATH="coverage/PycharmProject$chrome_remote_options.coverage" NAME="chrome_remote_options 覆盖结果" MODIFIED="1649319083394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
   </component>
 </project>
