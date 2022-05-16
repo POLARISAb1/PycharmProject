@@ -4,14 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/data/cookie.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_operate_yml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/test_cases/test_po_memberr.py" afterDir="false" />
+    <list default="true" id="80e90a10-ea79-4514-b2f7-e4b5bd170e86" name="变更" comment="app自动化测试">
+      <change afterPath="$PROJECT_DIR$/demo/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/test-cases/54b3c1162bdb3c83.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/test-cases/a602c34ad1862d42.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/test-cases/aefad705b2436ed5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/test-cases/d85b87c6e08868a4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/test-cases/edd3672d88ef634a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/custom-logo/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/custom-logo/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/custom-logo/偷懒.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/17c185cd-7e40-4234-a686-9784a04bb1df-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/2d680c70-b203-48c6-950d-c41ff30d87e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/549e2ba1-6314-45e5-ba96-286858f68e73-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/683f72ff-0d39-426c-adaf-4e409dd8b69d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/69ec1386-b485-4176-9784-0659a919bb90-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/7d33c8b6-2038-46ec-b0ce-e9097a9d8f25-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/7dadb4a1-658b-4c54-a45b-3ef9133a0f3c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/80c7c04c-372c-498c-8762-1b79114522ed-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/a120b02e-f640-4314-8150-9363eebe44fb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/be16a2e1-0c8b-44d1-9451-4a38e84bd48b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_test_actual_combat/allure/e788c0d5-0704-4eeb-9a52-39197b19fca2-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/page_object/contact_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/contact_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/page_object/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_test_actual_combat/page_object/member_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_test_actual_combat/page_object/member_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +96,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/appium/webdriver/common/appiumby.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python310/Lib/site-packages/appium/webdriver/webelement.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -54,119 +111,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
-    <property name="settings.editor.splitter.proportion" value="0.29405737" />
-    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PycharmProject\test_action" />
       <recent name="E:\PycharmProject\web_test_actual_combat\test_cases" />
       <recent name="E:\PycharmProject\data" />
       <recent name="F:\PycharmProject\pic" />
       <recent name="E:\PycharmProject" />
-      <recent name="E:\PycharmProject\test_pytest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_po_memberr.test_add_member 的 Python 测试">
-    <configuration name="test_operate_yml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/fun" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\PycharmProject\web_test_actual_combat\test_cases\test_operate_yml.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_operate_yml.test_operate_cookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_parametrize.TestTouchActionDemo">
+    <configuration name="Python tests for test_find.TestTouchActionDemo.test_stock_price" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_action" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_operate_yml.test_operate_cookie&quot;" />
+      <option name="_new_target" value="&quot;test_find.TestTouchActionDemo.test_stock_price&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_po_memberr.test_add_member 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_parametrize.TestTouchActionDemo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_action" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_po_memberr.test_add_member&quot;" />
+      <option name="_new_target" value="&quot;test_parametrize.TestTouchActionDemo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="web_test_actual_combat.test_cases.test_operate_yml 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_parametrize.TestTouchActionDemo.test_cs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/fun" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_action" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;web_test_actual_combat.test_cases.test_operate_yml&quot;" />
+      <option name="_new_target" value="&quot;test_parametrize.TestTouchActionDemo.test_cs&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="web_test_actual_combat.test_cases.test_operate_yml.test_operate_cookie 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_powerdw.TestTouchActionDemo.test_hamcrest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_test_actual_combat/fun" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_action" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;web_test_actual_combat.test_cases.test_operate_yml.test_operate_cookie&quot;" />
+      <option name="_new_target" value="&quot;test_powerdw.TestTouchActionDemo.test_hamcrest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_parametrize.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_action" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_action/test_parametrize.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.test_po_memberr.test_add_member 的 Python 测试" />
-        <item itemvalue="Python 测试.test_operate_yml.test_operate_cookie 的 Python 测试" />
-        <item itemvalue="Python 测试.web_test_actual_combat.test_cases.test_operate_yml.test_operate_cookie 的 Python 测试" />
-        <item itemvalue="Python.test_operate_yml" />
-        <item itemvalue="Python 测试.web_test_actual_combat.test_cases.test_operate_yml 的 Python 测试" />
+        <item itemvalue="Python tests.Python tests for test_parametrize.TestTouchActionDemo" />
+        <item itemvalue="Python tests.Python tests in test_parametrize.py" />
+        <item itemvalue="Python tests.Python tests for test_parametrize.TestTouchActionDemo.test_cs" />
+        <item itemvalue="Python tests.Python tests for test_powerdw.TestTouchActionDemo.test_hamcrest" />
+        <item itemvalue="Python tests.Python tests for test_find.TestTouchActionDemo.test_stock_price" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +283,30 @@
       <workItem from="1649402942542" duration="737000" />
       <workItem from="1649403714691" duration="3847000" />
       <workItem from="1649581403093" duration="8469000" />
-      <workItem from="1649639407135" duration="9174000" />
+      <workItem from="1649639407135" duration="13893000" />
+      <workItem from="1649658983790" duration="8144000" />
+      <workItem from="1649922995963" duration="1264000" />
+      <workItem from="1649926105995" duration="845000" />
+      <workItem from="1650002114318" duration="1791000" />
+      <workItem from="1650466854548" duration="4586000" />
+      <workItem from="1650472070713" duration="774000" />
+      <workItem from="1650472861544" duration="100000" />
+      <workItem from="1650473017369" duration="459000" />
+      <workItem from="1650594856605" duration="2874000" />
+      <workItem from="1650607227940" duration="1796000" />
+      <workItem from="1650611048283" duration="1492000" />
+      <workItem from="1650875302035" duration="21477000" />
+      <workItem from="1651134529410" duration="1333000" />
+      <workItem from="1651371636617" duration="8907000" />
+      <workItem from="1651387748722" duration="3835000" />
+      <workItem from="1651462974695" duration="7288000" />
+      <workItem from="1651718483198" duration="4700000" />
+      <workItem from="1651809871841" duration="5925000" />
+      <workItem from="1652071393947" duration="2628000" />
+      <workItem from="1652364165604" duration="3082000" />
+      <workItem from="1652509258972" duration="75000" />
+      <workItem from="1652509390537" duration="7679000" />
+      <workItem from="1652686271699" duration="5579000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1647854518031</created>
@@ -414,7 +483,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649412305805</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="web企业微信自动化测试">
+      <created>1649653624681</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649653624681</updated>
+    </task>
+    <task id="LOCAL-00027" summary="web企业微信自动化测试">
+      <created>1649670961957</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1649670961957</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,11 +520,17 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="变更" />
-    <option name="LAST_COMMIT_MESSAGE" value="变更" />
+    <MESSAGE value="web企业微信自动化测试" />
+    <MESSAGE value="app自动化测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="app自动化测试" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProject$demo.coverage" NAME="demo Coverage Results" MODIFIED="1650879124714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProject$base.coverage" NAME="base 覆盖结果" MODIFIED="1649666819918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/page_object" />
     <SUITE FILE_PATH="coverage/PycharmProject$operate_yml.coverage" NAME="operate_yml 覆盖结果" MODIFIED="1649642945586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/fun" />
-    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" 覆盖结果" MODIFIED="1649652151073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_test_actual_combat/test_cases" />
+    <SUITE FILE_PATH="coverage/PycharmProject$xueqiu1.coverage" NAME="xueqiu1 Coverage Results" MODIFIED="1650878598739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
     <SUITE FILE_PATH="coverage/PycharmProject$chrome_remote_options.coverage" NAME="chrome_remote_options 覆盖结果" MODIFIED="1649319083394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/func" />
+    <SUITE FILE_PATH="coverage/PycharmProject$xueqiu.coverage" NAME="xueqiu Coverage Results" MODIFIED="1650879140688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/PycharmProject$.coverage" NAME=" Coverage Results" MODIFIED="1652691546476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_action" />
   </component>
 </project>

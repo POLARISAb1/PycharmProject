@@ -1,0 +1,72 @@
+{
+  "uid" : "d85b87c6e08868a4",
+  "name" : "test_operate_cookie",
+  "fullName" : "web_test_actual_combat.test_cases.test_operate_yml#test_operate_cookie",
+  "historyId" : "f2d5be437f2294efb5e8d9e29a105f21",
+  "time" : {
+    "start" : 1649669731603,
+    "stop" : 1649669742049,
+    "duration" : 10446
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1649669711400,
+      "stop" : 1649669711510,
+      "duration" : 110
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "web_test_actual_combat.test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_operate_yml"
+  }, {
+    "name" : "host",
+    "value" : "IT-L-YANGYL"
+  }, {
+    "name" : "thread",
+    "value" : "22264-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "web_test_actual_combat.test_cases.test_operate_yml"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d85b87c6e08868a4.json",
+  "parameterValues" : [ ]
+}

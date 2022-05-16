@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Apr 11 17:42:46 CST 2022","Mon Apr 11 17:43:05 CST 2022","19440","web_test_actual_combat.test_cases","test_Add_member","","","","test_add_member",""
+"passed","Mon Apr 11 17:44:04 CST 2022","Mon Apr 11 17:44:13 CST 2022","8337","web_test_actual_combat.test_cases","test_po_memberr","","","","test_add_member",""
+"passed","Mon Apr 11 17:35:31 CST 2022","Mon Apr 11 17:35:42 CST 2022","10446","web_test_actual_combat.test_cases","test_operate_yml","","","","test_operate_cookie",""
